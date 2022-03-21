@@ -1,0 +1,61 @@
+>mode,zm
+>type,common
+
+#include "zm_mod.class"
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////
+rawfile,dummy.cfg
+///////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+scriptparsetree,scripts/zm/gametypes/_clientids.gsc
+scriptparsetree,scripts/zm/_zm_ffotd.csc
+scriptparsetree,scripts/zm/_zm_counter.gsc
+scriptparsetree,scripts/zm/_zm_mod.csc
+scriptparsetree,scripts/zm/_zm_mod.gsc
+
+scriptparsetree,scripts/zm/bo4_full_ammo.gsc
+scriptparsetree,scripts/zm/better_nuke.gsc
+scriptparsetree,scripts/zm/bo4_carpenter.gsc
+
+// NSZ Zombie Money 
+scriptparsetree,scripts/_NSZ/nsz_powerup_money.gsc
+scriptparsetree,scripts/_NSZ/nsz_powerup_money.csc
+xmodel,powerup_money
+
+// NSZ Bottomless Clip
+scriptparsetree,scripts/_NSZ/nsz_powerup_bottomless_clip.gsc
+scriptparsetree,scripts/_NSZ/nsz_powerup_bottomless_clip.csc
+xmodel,bottomless_clip
+material,bottomless_clip
+
+// NSZ Zombie Blood Powerup
+scriptparsetree,scripts/_NSZ/nsz_powerup_zombie_blood.gsc
+scriptparsetree,scripts/_NSZ/nsz_powerup_zombie_blood.csc
+xmodel,zombie_blood
+material,zombie_blood
+
+//Custom Powerups By ZoekMeMaar
+scriptparsetree,scripts/_ZoekMeMaar/custom_powerup_free_packapunch_with_time.gsc
+scriptparsetree,scripts/_ZoekMeMaar/custom_powerup_free_packapunch_with_time.csc
+xmodel,free_packapunch
+
+
+//timed gameplay
+
+scriptparsetree,scripts/zm/ugxmods_timedgp.gsc
+
+
+
+scriptparsetree,scripts/zm/_zm_weap_riotshield.csc
+scriptparsetree,scripts/zm/_zm_weap_riotshield.gsc
+
+scriptparsetree,scripts/zm/zm_damagefeedback.gsc
+
+//Custom Sound
+sound,zm_mod
+
+//Frost Iceforge's BO4 Carpenter
+scriptparsetree,scripts/zm/bo4_carpenter.gsc
+scriptparsetree,scripts/zm/_zm_powerup_carpenter.gsc
+
+

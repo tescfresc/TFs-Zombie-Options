@@ -1,0 +1,24 @@
+{ 
+    "Name" : "zm_mod", 
+    "IsStandalone" : true, 
+    "IsProduction" : false, 
+    "IsShipped" : false, 
+    "DontDeploy" : false, 
+    "NoStreamBank" : false, 
+    "MapFile" : "", 
+    "Standalone" : true, 
+    "Builds" : [ "T7" ], 
+    "Sources" : [ 
+        { 
+        "Type" : "ALIAS", 
+        "Name" : "user_aliases", 
+        "Filename" : "user_aliases.csv", 
+        "Specs" : [ ] 
+        }, 
+        { "Type" : "ALIAS", 
+        "Name" : "zm_mod",
+        "Filename" : "zm_mod.csv", 
+        "Specs" : [ ] 
+        }
+    ] 
+}

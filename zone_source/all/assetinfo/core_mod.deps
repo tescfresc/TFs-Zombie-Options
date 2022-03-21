@@ -1,0 +1,73 @@
+version,3421953,593
+ignore_missing_shipped,core_pre_gfx
+ignore_missing_shipped,core_patch
+ignore_missing_shipped,core_gfx
+ignore_missing_shipped,core_post_gfx
+ignore_missing_shipped,core_ui
+ignore_missing_shipped,core_common
+rawfile,mod.cfg
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\share\raw\mod.cfg,1536941854,
+rawfile,cp_mod.cfg
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\share\raw\cp_mod.cfg,1536941854,
+rawfile,mp_mod.cfg
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\share\raw\mp_mod.cfg,1536941854,
+rawfile,zm_mod.cfg
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\share\raw\zm_mod.cfg,1536941854,
+scriptparsetree,scripts/zm/zmsavedata.gsc
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\mods\tfzoptionsnoweaps\scripts\zm\zmsavedata.gsc,1630965126,
+rawfile,ui/hudinject/hudinject.lua
+rawfile,ui/t7/utility/savingdatautility.lua
+rawfile,ui/t7/utility/codutilityrequire.lua
+rawfile,ui/t6/lobby/lobbymenubuttons.lua
+rawfile,ui/t6/lobby/lobbymenus.lua
+rawfile,ui/uieditor/widgets/startmenu/tfoptions_checkboxoption.lua
+rawfile,ui/uieditor/widgets/startmenu/tfoptions_navbutton.lua
+rawfile,ui/uieditor/widgets/pc/startmenu/dropdown/tfoptiondropdown.lua
+rawfile,ui/uieditor/widgets/pc/startmenu/dropdown/tfoptiondropdownitem.lua
+rawfile,ui/t7/utility/tfpcutility.lua
+rawfile,ui/uieditor/widgets/pc/tfoptions/tfoptions_p1.lua
+rawfile,ui/uieditor/widgets/pc/tfoptions/tfoptions_p3.lua
+rawfile,ui/uieditor/widgets/pc/tfoptions/tfoptions_p2.lua
+rawfile,ui/uieditor/menus/pc/tfoptions.lua
+rawfile,ui/uieditor/menus/pc/tfoptions_powerups.lua
+rawfile,ui/uieditor/widgets/pc/tfoptions/tfoptions_powerups_p1.lua
+rawfile,ui/uieditor/menus/pc/tfoptions_perks.lua
+rawfile,ui/uieditor/widgets/pc/tfoptions/tfoptions_perks_p1.lua
+rawfile,ui/uieditor/menus/pc/tfoptions_weapons.lua
+rawfile,ui/uieditor/widgets/pc/tfoptions/tfoptions_weapons_p1.lua
+rawfile,ui/uieditor/menus/pc/tfoptions_roamer.lua
+rawfile,ui/uieditor/widgets/pc/tfoptions/tfoptions_roamer_p1.lua
+rawfile,ui/uieditor/menus/pc/tfoptions_zombies.lua
+rawfile,ui/uieditor/widgets/pc/tfoptions/tfoptions_zombies_p1.lua
+rawfile,ui/uieditor/menus/pc/tfoptions_game.lua
+rawfile,ui/uieditor/widgets/pc/tfoptions/tfoptions_game_p1.lua
+rawfile,ui/uieditor/widgets/pc/tfoptions/tfoptions_game_p2.lua
+rawfile,ui/uieditor/menus/pc/tfoptions_player.lua
+rawfile,ui/uieditor/widgets/pc/tfoptions/tfoptions_player_p1.lua
+rawfile,ui/uieditor/menus/core_frontend_patch_require.lua
+rawfile,ui/uieditor/menus/core_ui_require.lua
+image,tfzoptions_title
+	gdt,image,tfzoptions_title,6D-AF-A8-C8-B9-FE-FF-44-FD-E4-BE-2A-26-5C-31-47
+	gdt,light,tfzoptions_title,
+	gdt,emblem,tfzoptions_title,
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\deffiles\image.awi,1600400340,32295aab,34ad1118,b8e6c9c4,45d460d8
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\deffiles\light.awi,1600400340,5da64c3c,92db2ade,6c36bab1,4d3fe1b9
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\deffiles\emblem.awi,1600400341,90d8528b,f191a8f1,d026de37,33338f38
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\texture_assets\_TF\tfzoptions_title.png,1601750760,
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\share\assetconvert\image\v29\tfzoptions_title_CXW73TXVKOLHCWZNH65HX53G7Q.iwi,1601750873,
+texturecombo,core_mod
+assetlist,core_mod
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\share\raw\gamedata\playeranim\playeranimtypes.txt,1536941387,
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\mods\tfzoptionsnoweaps\zone_source\core_mod.zone,1630968043,b0319314,57aced95,23e89774,bebdd2a0
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\share\zone_source\core_mod.class,1536941553,
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\share\zone_source\core.class,1536941351,
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\share\zone_source\default.class,1536941653,
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\share\zone_source\mod_default.class,1536941653,
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\share\zone_source\base_patch.zpkg,1601497242,5a76b7f7,40123946,eb5bedee,b0ac8d77
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\zone_source\all\assetlist\core_pre_gfx.csv,1600401284,9a291896,f3713a9b,75a0b66e,703a40af
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\zone_source\all\assetlist\core_patch.csv,1600402293,414521c8,b00c4bd2,1cb776ba,dd6e2742
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\zone_source\all\assetlist\core_gfx.csv,1600401281,eb35b869,6f0759a0,375b27d8,7e4abcbc
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\zone_source\all\assetlist\core_post_gfx.csv,1600401281,c5b160fe,8def529b,2bc851dc,de320c91
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\zone_source\all\assetlist\core_ui.csv,1600401901,6eac37ef,af745f35,9f02acd6,5ef64937
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\zone_source\all\assetlist\core_common.csv,1600399702,019dcec6,25201477,4f369f35,6e14d2d0
+errorcount,0

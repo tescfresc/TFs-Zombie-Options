@@ -1,0 +1,1 @@
+Name,MasterReturn,EarlyInputLpf,EarlyFeedback,EarlySmear,EarlyBaseDelayMs,EarlyPreDelayMs,EarlyReturn,NearInputLpf,NearFeedback,NearReturn,NearLowDamp,NearHighDamp,NearDecayTime,NearSmear,NearPreDelayMs,FarInputLpf,FarFeedback,FarReturn,FarLowDamp,FarHighDamp,FarDecayTime,FarSmear,FarPreDelayMs,RowSourceFileName,RowSourceShortName,RowSourceLineNumber
